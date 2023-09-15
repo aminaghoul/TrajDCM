@@ -6,6 +6,8 @@
 
 If you find this work useful please cite us
 
+
+```
 @inproceedings{ghoul2023interpretable,
   title={Interpretable Goal-Based model for Vehicle Trajectory Prediction in Interactive Scenarios},
   author={Ghoul, Amina and Yahiaoui, Itheri and Verroust-Blondet, Anne and Nashashibi, Fawzi},
@@ -13,11 +15,6 @@ If you find this work useful please cite us
   pages={1--6},
   year={2023},
   organization={IEEE}
-}
-
-```
-function test() {
-  console.log("This code will have a copy button to the right of it");
 }
 ```
 
