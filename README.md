@@ -1,6 +1,6 @@
 # TrajDCM
 
-[Page](https://github.com/aminaghoul/TrajDCM) [Poster](docs/poster_IV.pdf)
+[Page](https://github.com/aminaghoul/TrajDCM) [Poster](docs/poster_iv.pdf)
 
 If you find this work interesting please ⭐️star and share this repo. 
 
